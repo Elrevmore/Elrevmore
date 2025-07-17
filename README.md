@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Coding cat" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" alt="Coding gif" />
+
+
+
 
 
 
