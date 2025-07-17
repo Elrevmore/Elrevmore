@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Coding cat" />
+
+
 
 # 👋 Hello, I'm Merve (Elrevmore)
 
@@ -19,3 +21,4 @@ I'm always open to collaborating with new people and excited to work together on
 
 ### 📫 Connect with me
 [LinkedIn](www.linkedin.com/in/merve-erol-a52057282) • [Email](mervelavinyaerol@gmail.com)
+PS: I love coffee and cats ☕🐱
