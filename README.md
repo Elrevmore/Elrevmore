@@ -7,19 +7,18 @@
 
 # 👋 Hello, I'm Merve (Elrevmore)
 
-🚀 **Bio**
-I’m a **career‑switcher into Data Science**, currently learning in public and building my skills step by step through real projects. With a background in biology, I bring strong analytical thinking and curiosity into **Python programming, data analysis, and machine learning**.
+🚀 **Bio**  
+I’m a **career-switcher into Data Science**, currently learning in public and building my skills step by step through real projects. With a background in biology, I bring strong analytical thinking and curiosity into **Python programming, data analysis, and machine learning**.
 
 I focus on learning by doing: writing code, breaking things, fixing them, and documenting the process. I’m especially interested in collaborative projects where I can grow, contribute, and learn from others.
 
 ---
 
 ## 🌱 What I’m Currently Doing
-
-* Strengthening my Python fundamentals (CS50P)
-* Practicing data analysis with real datasets
-* Building small but solid projects to improve problem‑solving skills
-* Learning Git & collaborative workflows
+- Strengthening my Python fundamentals (CS50P)
+- Practicing data analysis with real-world datasets
+- Building small but solid projects to improve problem-solving skills
+- Learning Git & collaborative workflows
 
 ---
 
@@ -37,37 +36,50 @@ I focus on learning by doing: writing code, breaking things, fixing them, and do
   
 </p>
 
+
 ---
 
 ## 📌 Featured Projects
 
-* **cs50p-projects**
-  Mini projects & problem‑solving exercises from *Harvard CS50P*, focused on core Python logic.
+**Shopify-2025-Analysis**  
+Exploratory data analysis on Shopify sales data to uncover trends and patterns using Python & Pandas.
 
-* **Ecole 42 Projects**
-  Low‑level programming and algorithmic thinking projects completed at *Ecole 42*.
+**OncoMetric – Breast Cancer Risk Assessment**  
+Data-driven assessment of breast cancer risk factors, combining domain knowledge with analytical techniques.
 
-* **Spotify Analysis**
-  Exploratory data analysis using Python & Pandas to extract insights from music data.
+**VNL_Men_2023-Data-Analysis**  
+Cleaned, analyzed, and visualized a real-world sports dataset to extract meaningful insights.
+
+**Data-Science-Projects**  
+A collection of notebooks and experiments covering core data science concepts and workflows.
+
+**Police-stops-analysis**  
+Explored police traffic stop data to identify patterns and disparities through exploratory analysis.
+
+**Analyzing Historical Stock Revenue Data and Building a Dashboard**  
+Analyzed financial time-series data and built a dashboard to communicate insights effectively.
+
+**COVID-19 Vaccine Tracker**  
+Tracked and visualized global COVID-19 vaccination data using Python and external data sources.
+
+**Card_guard**  
+A beginner-friendly machine learning project focused on understanding credit card fraud detection pipelines.
 
 ---
 
 ## 🤝 Collaboration & Growth
-
 I enjoy working with people who value learning, curiosity, and clear communication. I’m open to:
-
-* Beginner‑friendly open‑source contributions
-* Study‑oriented collaborations
-* Data analysis or Python‑based side projects
+- Beginner-friendly open-source contributions  
+- Study-oriented collaborations  
+- Data analysis or Python-based side projects  
 
 ---
 
-
 ## 📫 Connect with Me
-
-* **LinkedIn:** (www.linkedin.com/in/merve-lavinya-erol)
-* **Email:** (mervelavinyaerol@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/merve-lavinya-erol  
+- **Email:** mervelavinyaerol@gmail.com
 
 ---
 
 ☕🐱 *PS: I love coffee and cats — they keep me productive and happy.*
+
