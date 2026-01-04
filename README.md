@@ -15,10 +15,13 @@ I focus on learning by doing: writing code, breaking things, fixing them, and do
 ---
 
 ## 🌱 What I’m Currently Doing
-- Strengthening my Python fundamentals (CS50P)
-- Practicing data analysis with real-world datasets
-- Building small but solid projects to improve problem-solving skills
-- Learning Git & collaborative workflows
+
+* Working on **end-to-end data analysis projects** using real-world datasets
+* Improving **SQL + Pandas** workflows for data extraction and analysis
+* Practicing **data storytelling** through visualizations and dashboards
+* Learning by refining projects: cleaning code, improving README files, and documenting insights
+* Preparing a stronger **portfolio for data / analytics roles**
+
 
 ---
 
@@ -82,4 +85,5 @@ I enjoy working with people who value learning, curiosity, and clear communicati
 ---
 
 ☕🐱 *PS: I love coffee and cats — they keep me productive and happy.*
+
 
